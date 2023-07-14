@@ -25,7 +25,7 @@ _原汁原味的一手资料_
 
 ## Quick_Start
 _Connecting AI Can be Easily Done_
-- [BaseScipt-FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据,react实现 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
+- [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据,react实现 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
 - 
 
 **[⬆ back to top](#contents)**
