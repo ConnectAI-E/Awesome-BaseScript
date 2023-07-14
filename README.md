@@ -25,7 +25,15 @@ _原汁原味的一手资料_
 ## Quick_Start
 _不要犹豫，快速上手_
 - [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据,react实现 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
-- 
+- [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据,react实现 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
+- [SearchAndDeduplication](https://github.com/ConnectAI-E/BaseScript-SearchAndDeduplication) - 按照一定条件查找重复的记录，并删除它们 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SearchAndDeduplication)
+- [FillwithRandomValues](https://github.com/ConnectAI-E/BaseScipt-FillwithRandomValues) - 使用随机数填充字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FillwithRandomValues)
+- [URLtoAttachment](https://github.com/ConnectAI-E/BaseScipt-URLtoAttachment) - 将多维表格中的 URL 转换为附件 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-URLtoAttachment)
+- [ProperFunction](https://github.com/ConnectAI-E/BaseScipt-ProperFunction) - 选择某一个文本字段，将其中的英文单词都改为首字母大写，其余字符都改为小写 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-ProperFunction)
+- [HTML-Template](https://github.com/ConnectAI-E/BaseScipt-HTML-Template) - 官方HTML模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-HTML-Template)
+- [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-React-Template) - 官方React模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-React-Template)
+- [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-Vue-Template) - 官方Vue模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-Vue-Template)
+- [FindAndReplace](https://github.com/ConnectAI-E/BaseScipt-Nextjs-Template) - 官方Nextjs模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-Nextjs-Template)
 
 **[⬆ back to top](#contents)**
 
