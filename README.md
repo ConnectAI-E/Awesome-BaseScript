@@ -24,7 +24,7 @@ _原汁原味的一手资料_
 **[⬆ back to top](#contents)**
 
 ## Quick_Start
-_不要犹豫,快速上手_
+_快速上手不要犹豫_
 - [HTML-Template](https://github.com/ConnectAI-E/BaseScript-HTML-Template) - 官方HTML模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-HTML-Template)
 - [React-Template](https://github.com/ConnectAI-E/BaseScript-React-Template) - 官方React模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-React-Template)
 - [Vue-Template](https://github.com/ConnectAI-E/BaseScript-Vue-Template) - 官方Vue模版 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Vue-Template)
