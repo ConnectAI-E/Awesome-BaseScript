@@ -19,7 +19,6 @@ _原汁原味的一手资料_
 - [扩展脚本开发常见QA](https://bytedance.feishu.cn/docx/QpMLdHkoporxOHxya5mcxhxln6f)
 - [表格授权码SDK-NodeJs版](https://bytedance.feishu.cn/wiki/Idp0wzDNRi5ALZkCsSZcB9y4nSb)
 - [表格授权码SDK-Python版](https://bytedance.feishu.cn/wiki/E95iw3QohiOOolkjmXwcVsC5nae)
-- [提交共享项目](https://bytedance.feishu.cn/share/base/form/shrcnwEhiP3yXlHko8LXFGBw1Ic) 🍻 让更多人看见你的Base扩展项目
 
 **[⬆ back to top](#contents)**
 
@@ -31,7 +30,10 @@ _不要犹豫，快速上手_
 **[⬆ back to top](#contents)**
 
 ## Contact
-_和官方同学建立联系_
+
+🍻 **[提交共享项目](https://bytedance.feishu.cn/share/base/form/shrcnwEhiP3yXlHko8LXFGBw1Ic) 让更多人使用你的Base扩展**
+
+🙈 **和官方同学建立联系 ⬇️**
 
 <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c55n4142-fce8-4792-b851-f92c9c7d8300">
   <img alt="Join In Base Group" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/253514789-ab8dc6fb-dd5a-42d7-89be-31f2f0385855.png" style="width: 290px;" />
