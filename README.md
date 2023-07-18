@@ -8,13 +8,13 @@
 
 
 ## Contents
-- [](#)
-  - [Contents](#contents)
-  - [Best\_Practices](#best_practices)
-  - [Document](#document)
-  - [Quick\_Start](#quick_start)
-  - [Hacker\_Job](#hacker_job)
-  - [Contact](#contact)
+
+- [Contents](#contents)
+- [Best\_Practices](#best_practices)
+- [Document](#document)
+- [Quick\_Start](#quick_start)
+- [Hacker\_Job](#hacker_job)
+- [Contact](#contact)
 ## Best_Practices
 
 1️⃣ clone deme
