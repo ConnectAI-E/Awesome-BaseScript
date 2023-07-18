@@ -6,13 +6,25 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
+
 ## Contents
 - [](#)
   - [Contents](#contents)
+  - [Best\_Practices](#best_practices)
   - [Document](#document)
   - [Quick\_Start](#quick_start)
   - [Hacker\_Job](#hacker_job)
   - [Contact](#contact)
+## Best_Practices
+
+1️⃣ clone deme
+```
+git clone ....
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
+
 
 ## Document
 _原汁原味的一手资料_
