@@ -7,10 +7,12 @@
 
 
 ## Contents
-- [Document](#Document)
-- [Quick Start](#Quick_Start)
-- [Hacker Job](#Hacker_Job)
-- [Contact](#Contact)
+- [](#)
+  - [Contents](#contents)
+  - [Document](#document)
+  - [Quick\_Start](#quick_start)
+  - [Hacker\_Job](#hacker_job)
+  - [Contact](#contact)
 
 ## Document
 _原汁原味的一手资料_
@@ -34,7 +36,7 @@ _快速上手不要犹豫_
 
 ## Hacker_Job
 _看看别人怎么玩_
-- [Find-And-Replace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据,react实现 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
+- [Find-And-Replace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
 - [Search-And-Deduplication](https://github.com/ConnectAI-E/BaseScript-SearchAndDeduplication) - 按照一定条件查找重复的记录，并删除它们 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SearchAndDeduplication)
 - [Fill-With-Random-Values](https://github.com/ConnectAI-E/BaseScript-FillwithRandomValues) - 使用随机数填充字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FillwithRandomValues)
 - [URL-To-Attachment](https://github.com/ConnectAI-E/BaseScript-URLtoAttachment) - 将多维表格中的 URL 转换为附件 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-URLtoAttachment)
