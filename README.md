@@ -34,8 +34,10 @@ _原汁原味的一手资料_
 - [扩展脚本开发常见QA](https://bytedance.feishu.cn/docx/QpMLdHkoporxOHxya5mcxhxln6f)
 - [表格授权码SDK-NodeJs版](https://bytedance.feishu.cn/wiki/Idp0wzDNRi5ALZkCsSZcB9y4nSb)
 - [表格授权码SDK-Python版](https://bytedance.feishu.cn/wiki/E95iw3QohiOOolkjmXwcVsC5nae)
-
+- [表格授权码SDK-Golang版](https://bytedance.feishu.cn/docx/T7p3dIDILoaV6KxpKvRclV1Znrg)
+  
 **[⬆ back to top](#contents)**
+  
 
 ## Quick_Start
 _快速上手不要犹豫_
