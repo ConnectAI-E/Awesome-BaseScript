@@ -57,7 +57,9 @@ _看看别人怎么玩_
 - [Proper-Function](https://github.com/ConnectAI-E/BaseScript-ProperFunction) - 选择某一个文本字段，将其中的英文单词都改为首字母大写，其余字符都改为小写 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ProperFunction)
 - [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-ConnectPrompt) - 输入提示，你将获得AI和LLM在你指定的领域为你完成的内容 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ConnectPrompt)
 - [BaseTranslator-FE](https://github.com/ConnectAI-E/BaseScript-BaseTranslatorFE) - 翻译表格字段为其他语言 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseTranslatorFE)
+- [BaseLocationUtils](https://github.com/ConnectAI-E/BaseScript-BaseLocationUtils) - 地理位置转换 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseLocationUtils)
 
+  
 **[⬆ back to top](#contents)**
 
 ## Contact
