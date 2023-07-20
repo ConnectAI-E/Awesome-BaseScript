@@ -55,7 +55,7 @@ _看看别人怎么玩_
 - [Fill-With-Random-Values](https://github.com/ConnectAI-E/BaseScript-FillwithRandomValues) - 使用随机数填充字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FillwithRandomValues)
 - [URL-To-Attachment](https://github.com/ConnectAI-E/BaseScript-URLtoAttachment) - 将多维表格中的 URL 转换为附件 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-URLtoAttachment)
 - [Proper-Function](https://github.com/ConnectAI-E/BaseScript-ProperFunction) - 选择某一个文本字段，将其中的英文单词都改为首字母大写，其余字符都改为小写 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ProperFunction)
-- [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-ConnectPrompt) -  在多维表格中使用openai贴补AI生成的数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ConnectPrompt)
+- [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-ConnectPrompt) -  使用OpenAI生成字段数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ConnectPrompt)
 - [Base-Translator-FE](https://github.com/ConnectAI-E/BaseScript-BaseTranslatorFE) - 翻译表格字段为其他语言 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseTranslatorFE)
 - [Base-Location-Utils](https://github.com/ConnectAI-E/BaseScript-BaseLocationUtils) - 根据字段获取详细的地理位置信息 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseLocationUtils)
 
