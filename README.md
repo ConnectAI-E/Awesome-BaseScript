@@ -58,6 +58,7 @@ _看看别人怎么玩_
 - [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-ConnectPrompt) -  使用OpenAI生成字段数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ConnectPrompt)
 - [Base-Translator-FE](https://github.com/ConnectAI-E/BaseScript-BaseTranslatorFE) - 翻译表格字段为其他语言 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseTranslatorFE)
 - [Base-Location-Utils](https://github.com/ConnectAI-E/BaseScript-BaseLocationUtils) - 根据字段获取详细的地理位置信息 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseLocationUtils)
+- [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-RandomSort) - 随机排序 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-RandomSort)
 
   
 **[⬆ back to top](#contents)**
