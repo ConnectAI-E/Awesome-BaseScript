@@ -59,6 +59,7 @@ _看看别人怎么玩_
 - [Base-Translator-FE](https://github.com/ConnectAI-E/BaseScript-BaseTranslatorFE) - 翻译表格字段为其他语言 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseTranslatorFE)
 - [Base-Location-Utils](https://github.com/ConnectAI-E/BaseScript-BaseLocationUtils) - 根据字段获取详细的地理位置信息 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseLocationUtils)
 - [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-RandomSort) - 随机打乱数据表中记录顺序 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-RandomSort)
+- [Connect-Prompt](https://github.com/ConnectAI-E/BaseScript-LotteryPage) - 简易抽奖工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LotteryPage)
 
   
 **[⬆ back to top](#contents)**
