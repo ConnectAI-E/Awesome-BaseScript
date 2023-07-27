@@ -60,6 +60,7 @@ _看看别人怎么玩_
 - [Base-Location-Utils](https://github.com/ConnectAI-E/BaseScript-BaseLocationUtils) - 根据字段获取详细的地理位置信息 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-BaseLocationUtils)
 - [Random-Sort](https://github.com/ConnectAI-E/BaseScript-RandomSort) - 随机打乱数据表中记录顺序 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-RandomSort)
 - [Lottery-Page](https://github.com/ConnectAI-E/BaseScript-LotteryPage) - 基于多维表格的简易抽奖工具，功能强大，支持上千人 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LotteryPage)
+- [ExcelImport](https://github.com/ConnectAI-E/BaseScript-ExcelImport) - 导入Excel ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ExcelImport)
 
   
 **[⬆ back to top](#contents)**
