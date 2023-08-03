@@ -61,7 +61,7 @@ _看看别人怎么玩_
 - [Random-Sort](https://github.com/ConnectAI-E/BaseScript-RandomSort) - 随机打乱数据表中记录顺序 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-RandomSort)
 - [Lottery-Page](https://github.com/ConnectAI-E/BaseScript-LotteryPage) - 基于多维表格的简易抽奖工具，功能强大，支持上千人 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LotteryPage)
 - [Excel-Import](https://github.com/ConnectAI-E/BaseScript-ExcelImport) - 将本地 Excel 文件导入到已有的多维表格 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ExcelImport)
-- [Link-Preview](https://github.com/ConnectAI-E/BaseScript-LinkPreview) - 网页预览 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LinkPreview)
+- [Link-Preview](https://github.com/ConnectAI-E/BaseScript-LinkPreview) - 预览该单元格中的网页链接 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LinkPreview)
 
   
 **[⬆ back to top](#contents)**
