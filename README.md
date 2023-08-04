@@ -50,6 +50,7 @@ _快速上手不要犹豫_
 
 ## Hacker_Job
 _看看别人怎么玩_
+- [Chat-Base](https://github.com/ConnectAI-E/chat-base) - 只需编辑表格字段和注释便可从自然语言中提取任何数据，并录入多维表格，由typechat引擎驱动 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/chat-base)
 - [Find-And-Replace](https://github.com/ConnectAI-E/BaseScipt-FindAndReplace) - 查找、替换多维表格中的数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScipt-FindAndReplace)
 - [Search-And-Deduplication](https://github.com/ConnectAI-E/BaseScript-SearchAndDeduplication) - 按照一定条件查找重复的记录，并删除它们 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SearchAndDeduplication)
 - [Fill-With-Random-Values](https://github.com/ConnectAI-E/BaseScript-FillwithRandomValues) - 使用随机数填充字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FillwithRandomValues)
