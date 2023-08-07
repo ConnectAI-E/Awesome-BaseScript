@@ -69,6 +69,7 @@ _看看别人怎么玩_
 - [Excel-Import](https://github.com/ConnectAI-E/BaseScript-ExcelImport) - 将本地 Excel 文件导入到已有的多维表格 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-ExcelImport)
 - [Link-Preview](https://github.com/ConnectAI-E/BaseScript-LinkPreview) - 预览该单元格中的网页链接 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-LinkPreview)
 - [Split-Columns](https://github.com/ConnectAI-E/BaseScript-SplitColumns) - 将文本字段分列成多个字段，支持多种分隔符 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitColumns)
+- [QRCode-Generator](https://github.com/ConnectAI-E/BaseScript-QRCode-Generator) - 二维码生成器 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-QRCode-Generator)
 
   
 **[⬆ back to top](#contents)**
