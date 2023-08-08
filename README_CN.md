@@ -10,7 +10,7 @@
 <strong align="center">
 <samp>
 
-[**English**](./readme.md) · [**简体中文**](./README_CN.md)
+[**English**](./README.md) · [**简体中文**](./README_CN.md)
 
 </samp>
 </strong>
