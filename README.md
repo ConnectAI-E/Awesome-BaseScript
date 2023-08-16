@@ -80,6 +80,7 @@ _See how others play_
 - [Split-Columns](https://github.com/ConnectAI-E/BaseScript-SplitColumns) - Split text fields into multiple columns, supporting various delimiters ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitColumns)
 - [QRCode-Generator](https://github.com/ConnectAI-E/BaseScript-QRCode-Generator) - QR code generator ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-QRCode-Generator)
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - Bulk download attachment files ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
+- [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - Convert currency based on real-time exchange rates and write to the field ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 
   
 **[⬆ back to top](#contents)**
