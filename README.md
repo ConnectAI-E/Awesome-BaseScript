@@ -81,6 +81,8 @@ _See how others play_
 - [QRCode-Generator](https://github.com/ConnectAI-E/BaseScript-QRCode-Generator) - QR code generator ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-QRCode-Generator)
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - Bulk download attachment files ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
 - [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - Convert currency based on real-time exchange rates and write to the field ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
+- [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - Easily import local Excel files into existing multidimensional spreadsheets, supporting content appending and comparative imports. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
+
 
   
 **[⬆ back to top](#contents)**
