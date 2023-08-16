@@ -82,6 +82,7 @@ _See how others play_
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - Bulk download attachment files ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
 - [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - Convert currency based on real-time exchange rates and write to the field ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 - [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - Easily import local Excel files into existing multidimensional spreadsheets, supporting content appending and comparative imports. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
+- [translate](https://github.com/ConnectAI-E/BaseScript-translate) - Select a cell, and it will be automatically translated into Chinese/English. Replace the original text with one click ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
 
 
   
