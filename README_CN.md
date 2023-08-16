@@ -81,6 +81,7 @@ _看看别人怎么玩_
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - 批量下载附件文件，下载速度快，并且支持超过 1G 的附件下载 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
 - [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - 按照实时汇率转换货币，并写入字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 - [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - 将本地 Excel 文件轻松导入到已有的多维表格中，支持追加内容和对比导入 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
+- [translate](https://github.com/ConnectAI-E/BaseScript-translate) - 选中单元格，即可自动翻译成中文/英文，一键替换原文 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
 
   
 **[⬆ back to top](#contents)**
