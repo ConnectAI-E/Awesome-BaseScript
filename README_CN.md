@@ -79,7 +79,7 @@ _看看别人怎么玩_
 - [Split-Columns](https://github.com/ConnectAI-E/BaseScript-SplitColumns) - 将文本字段分列成多个字段，支持多种分隔符 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitColumns)
 - [QRCode-Generator](https://github.com/ConnectAI-E/BaseScript-QRCode-Generator) - 二维码生成器 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-QRCode-Generator)
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - 批量下载附件文件，下载速度快，并且支持超过 1G 的附件下载 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
-- [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - 🍶 飞书 base 按照实时汇率转换货币，并写入字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
+- [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - 按照实时汇率转换货币，并写入字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 
   
 **[⬆ back to top](#contents)**
