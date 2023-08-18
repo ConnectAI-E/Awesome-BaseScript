@@ -74,18 +74,20 @@ body {
   font-family: var(--ff-sans);
 }
 
-h1,
+h3,{
+  color: var(--gray12);
+}
 h2,
-h3,
+h1,
 h4,
 p,
 a {
   margin: 0;
-  color: white;
+  color: var(--gray12);
 }
 
 h5 {
-  color: white;
+  color: var(--gray12);
 }
 
 main {

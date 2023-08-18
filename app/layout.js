@@ -1,9 +1,9 @@
 import "./globals.scss";
 
-const url = "https://interfaces.rauno.me";
-const title = "Web Interface Guidelines";
+const url = "https://larkbase.vercel.app/";
+const title = "Larkbase Starter";
 const description =
-  "A non-exhaustive list of details that make a good web interface.";
+  "curated list of awesome lark-base script resources,";
 const ogUrl = `${url}/og.png`;
 
 export const metadata = {
