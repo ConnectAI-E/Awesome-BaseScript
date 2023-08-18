@@ -121,5 +121,4 @@ _See how others play_
 🍻 **[Submit Your Shared Project](https://bytedance.feishu.cn/share/base/form/shrcnwEhiP3yXlHko8LXFGBw1Ic) and let more
 people use your Base extensions**
 
-🙈 **Connect with colleagues from the official team ⬇️**
-![join](https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/253514789-ab8dc6fb-dd5a-42d7-89be-31f2f0385855.png)
+
