@@ -1,26 +1,3 @@
-
-
-
-<img width="100%" alt="image" src="https://github.com/ConnectAI-E/Awesome-BaseScript/assets/50035229/c87eec25-de92-4227-b2e7-8da11389d15b">
-
-
-<h3 align='center'>Awesome BaseScript</h3>
-<h5 align='center'>🍻 A curated list of awesome lark-base script resources, demo, libraries, tools</h5>
-
-
-<strong align="center">
-<samp>
-
-[**English**](./README.md) · [**简体中文**](./README_CN.md)
-
-</samp>
-</strong>
-
-#
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-
 ## Contents
 
 - [Contents](#contents)
@@ -32,7 +9,7 @@
 ## Best_Practices
 
 1️⃣ clone deme
-```
+```cmd
 git clone ....
 pnpm install
 pnpm dev
@@ -94,7 +71,4 @@ _See how others play_
 
 🙈 **Connect with colleagues from the official team ⬇️**
 
-<a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=c55n4142-fce8-4792-b851-f92c9c7d8300">
-  <img alt="Join In Base Group" src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/253514789-ab8dc6fb-dd5a-42d7-89be-31f2f0385855.png" style="width: 290px;" />
-</a>
 
