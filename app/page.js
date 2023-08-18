@@ -7,6 +7,8 @@ import { cache } from "react";
 import matter from "gray-matter";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import { Icons, GitHub } from "./icons";
+import rehypeHighlight from "rehype-highlight"
+import "./github-dark-dimmed.css"
 
 export default async function Index() {
   const markdown = await getMarkdown();
@@ -105,7 +107,7 @@ export default async function Index() {
           options={{
             mdxOptions: {
               remarkPlugins: [remarkGfm],
-              rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
+              rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings,rehypeHighlight],
             },
           }}
           components={mdxComponents}
@@ -167,4 +169,10 @@ const mdxComponents = {
     };
     return <a {...props} {...p} />;
   },
+    img: (props) => {
+      if(props.alt ==="join"){
+        return <img {...props} style={{width: "500px", borderRadius:'12px' ,paddingTop:'10px'}} />
+      }
+        return <img {...props}  />
+    }
 };
