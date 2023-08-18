@@ -6,6 +6,7 @@ const description =
   "curated list of awesome lark-base script resources,";
 const ogUrl = `${url}/og.png`;
 
+export const githubUrl = "https://github.com/ConnectAI-E/Awesome-BaseScript"
 export const metadata = {
   title,
   description,
