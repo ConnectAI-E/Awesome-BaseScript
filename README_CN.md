@@ -84,7 +84,7 @@ _看看别人怎么玩_
 - [translate](https://github.com/ConnectAI-E/BaseScript-translate) - 选中单元格，即可自动翻译成中文/英文，一键替换原文 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
 - [Mp3Player](https://github.com/ConnectAI-E/BaseScript-Mp3Player) - 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Mp3Player)
 - [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - 图片预览 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
-
+- [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - 多维表格数据分行 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
 
 
 
