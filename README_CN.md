@@ -82,6 +82,11 @@ _看看别人怎么玩_
 - [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - 按照实时汇率转换货币，并写入字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 - [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - 将本地 Excel 文件轻松导入到已有的多维表格中，支持追加内容和对比导入 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
 - [translate](https://github.com/ConnectAI-E/BaseScript-translate) - 选中单元格，即可自动翻译成中文/英文，一键替换原文 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
+- [Mp3Player](https://github.com/ConnectAI-E/BaseScript-Mp3Player) - 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Mp3Player)
+- [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - 图片预览 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
+
+
+
 
   
 **[⬆ back to top](#contents)**
