@@ -181,6 +181,9 @@ const mdxComponents = {
         );
     },
     a: (props) => {
+        if (props.href === "./README.md" || props.href === "./README_CN.md") {
+           return 
+        }
         const p = {
             ...(props.href.startsWith("http") && {
                 target: "_blank",
