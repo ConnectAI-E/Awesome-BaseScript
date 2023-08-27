@@ -113,6 +113,13 @@ _See how others play_
 - [translate](https://github.com/ConnectAI-E/BaseScript-translate) - Select a cell, and it will be automatically
   translated into Chinese/English. Replace the original text with one
   click ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
+- [Mp3Player](https://github.com/ConnectAI-E/BaseScript-Mp3Player) - Mp3Player ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Mp3Player)
+- [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - PreviewImages ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
+- [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - Multidimensional table data is divided into rows ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
+- [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - Perform a cross-join (Cartesian product) of multiple data tables and write the results into a new data table ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
+
+
+
 
 **[⬆ back to top](#contents)**
 
