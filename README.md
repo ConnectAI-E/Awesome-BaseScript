@@ -117,6 +117,7 @@ _See how others play_
 - [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - PreviewImages ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
 - [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - Multidimensional table data is divided into rows ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - Perform a cross-join (Cartesian product) of multiple data tables and write the results into a new data table ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
+- [devTool](https://github.com/ConnectAI-E/BaseScript-devTool) - This tool is used to obtain IDs related to a base, including BaseID, FieldID, TableID, RecordID, and so on. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-devTool)
 
 
 
