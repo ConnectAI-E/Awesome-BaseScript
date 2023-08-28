@@ -110,14 +110,14 @@ _See how others play_
 - [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - Easily import local
   Excel files into existing multidimensional spreadsheets, supporting content appending and comparative
   imports. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
-- [Translate](https://github.com/ConnectAI-E/BaseScript-translate) - Select a cell, and it will be automatically
+- [Translate](https://github.com/ConnectAI-E/BaseScript-Translate) - Select a cell, and it will be automatically
   translated into Chinese/English. Replace the original text with one
-  click ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
+  click ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Translate)
 - [Mp3Player](https://github.com/ConnectAI-E/BaseScript-Mp3Player) - Mp3Player ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Mp3Player)
 - [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - PreviewImages ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
 - [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - Multidimensional table data is divided into rows ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - Perform a cross-join (Cartesian product) of multiple data tables and write the results into a new data table ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
-- [DevTool](https://github.com/ConnectAI-E/BaseScript-devTool) - This tool is used to obtain IDs related to a base, including BaseID, FieldID, TableID, RecordID, and so on. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-devTool)
+- [DevTool](https://github.com/ConnectAI-E/BaseScript-DevTool) - This tool is used to obtain IDs related to a base, including BaseID, FieldID, TableID, RecordID, and so on. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-DevTool)
 
 
 
