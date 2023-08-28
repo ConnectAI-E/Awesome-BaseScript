@@ -81,12 +81,12 @@ _看看别人怎么玩_
 - [AttachmentDownloader](https://github.com/ConnectAI-E/BaseScript-AttachmentDownloader) - 批量下载附件文件，下载速度快，并且支持超过 1G 的附件下载 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-AttachmentDownloader)
 - [CurrencyConversion](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion) - 按照实时汇率转换货币，并写入字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CurrencyConversion)
 - [Excel-Compare-and-Import](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import) - 将本地 Excel 文件轻松导入到已有的多维表格中，支持追加内容和对比导入 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Excel-Compare-and-Import)
-- [Translate](https://github.com/ConnectAI-E/BaseScript-translate) - 选中单元格，即可自动翻译成中文/英文，一键替换原文 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-translate)
+- [Translate](https://github.com/ConnectAI-E/BaseScript-Translate) - 选中单元格，即可自动翻译成中文/英文，一键替换原文 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Translate)
 - [Mp3Player](https://github.com/ConnectAI-E/BaseScript-Mp3Player) - 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-Mp3Player)
 - [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - 图片预览 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
 - [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - 将数据拆分为多行：支持文本、多选、人员（多选）、查找引用和公式等等字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - 将多张数据表进行交叉连接（笛卡尔积），并将结果写入新的数据表 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
-- [DevTool](https://github.com/ConnectAI-E/BaseScript-devTool) - 本工具用于获取多维表格相关 ID，包括BaseID、FieldID、TableID、RecordID等等 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-devTool)
+- [DevTool](https://github.com/ConnectAI-E/BaseScript-DevTool) - 本工具用于获取多维表格相关 ID，包括BaseID、FieldID、TableID、RecordID等等 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-DevTool)
 
 
 
