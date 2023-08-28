@@ -86,6 +86,7 @@ _看看别人怎么玩_
 - [PreviewImages](https://github.com/ConnectAI-E/BaseScript-PreviewImages) - 图片预览 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-PreviewImages)
 - [SplitRows](https://github.com/ConnectAI-E/BaseScript-SplitRows) - 将数据拆分为多行：支持文本、多选、人员（多选）、查找引用和公式等等字段 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRows)
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - 将多张数据表进行交叉连接（笛卡尔积），并将结果写入新的数据表 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
+- [devTool](https://github.com/ConnectAI-E/BaseScript-devTool) - 本工具用于获取多维表格相关 ID，包括BaseID、FieldID、TableID、RecordID等等 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-devTool)
 
 
 
