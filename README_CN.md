@@ -88,6 +88,7 @@ _看看别人怎么玩_
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - 将多张数据表进行交叉连接（笛卡尔积），并将结果写入新的数据表 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
 - [DevTool](https://github.com/ConnectAI-E/BaseScript-DevTool) - 本工具用于获取多维表格相关 ID，包括BaseID、FieldID、TableID、RecordID等等 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-DevTool)
 - [CleanData](https://github.com/ConnectAI-E/BaseScript-CleanData) - 用于批量删除整个视图或多个字段数据，可突破 5000 条上限 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CleanData)
+- [GlobalSearch](https://github.com/ConnectAI-E/BaseScript-GlobalSearch) - 支持在多维表格内快速搜索所有数据，无需切换数据表，轻松查找所有内容 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-GlobalSearch)
 
 
   
