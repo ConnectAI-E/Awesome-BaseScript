@@ -119,6 +119,8 @@ _See how others play_
 - [CartesianProduct](https://github.com/ConnectAI-E/BaseScript-CartesianProduct) - Perform a cross-join (Cartesian product) of multiple data tables and write the results into a new data table ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CartesianProduct)
 - [DevTool](https://github.com/ConnectAI-E/BaseScript-DevTool) - This tool is used to obtain IDs related to a base, including BaseID, FieldID, TableID, RecordID, and so on. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-DevTool)
 - [CleanData](https://github.com/ConnectAI-E/BaseScript-CleanData) - Used to bulk delete entire views or data from multiple fields, capable of bypassing the 5000 records limit. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CleanData)
+- [GlobalSearch](https://github.com/ConnectAI-E/BaseScript-GlobalSearch) - Quickly search all data in base without switching tables to find everything ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-GlobalSearch)
+
 
 
 
