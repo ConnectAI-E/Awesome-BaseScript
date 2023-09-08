@@ -121,6 +121,9 @@ _See how others play_
 - [CleanData](https://github.com/ConnectAI-E/BaseScript-CleanData) - Used to bulk delete entire views or data from multiple fields, capable of bypassing the 5000 records limit. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CleanData)
 - [GlobalSearch](https://github.com/ConnectAI-E/BaseScript-GlobalSearch) - Quickly search all data in base without switching tables to find everything ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-GlobalSearch)
 - [SplitRowsToOtherTable](https://github.com/ConnectAI-E/BaseScript-SplitRowsToOtherTable) - Split text, multiple-choice, and other data into separate data tables and support data synchronization for other fields. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRowsToOtherTable)
+- [TextToMultiSelect](https://github.com/ConnectAI-E/BaseScript-TextToMultiSelect) - Batch converting the content of multiple lines of text fields into the values of a multiple-choice field. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-TextToMultiSelect)
+
+
 
 
 
