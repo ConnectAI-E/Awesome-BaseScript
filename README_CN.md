@@ -90,6 +90,9 @@ _看看别人怎么玩_
 - [CleanData](https://github.com/ConnectAI-E/BaseScript-CleanData) - 用于批量删除整个视图或多个字段数据，可突破 5000 条上限 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CleanData)
 - [GlobalSearch](https://github.com/ConnectAI-E/BaseScript-GlobalSearch) - 支持在多维表格内快速搜索所有数据，无需切换数据表，轻松查找所有内容 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-GlobalSearch)
 - [SplitRowsToOtherTable](https://github.com/ConnectAI-E/BaseScript-SplitRowsToOtherTable) - 将文本、多选等等数据拆分至其他数据表，并支持同步其他字段的数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-SplitRowsToOtherTable)
+- [TextToMultiSelect](https://github.com/ConnectAI-E/BaseScript-TextToMultiSelect) - 批量将多行文本字段内容，转化为多选字段的值 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-TextToMultiSelect)
+
+
 
 
   
