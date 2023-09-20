@@ -124,6 +124,8 @@ _See how others play_
 - [TextToMultiSelect](https://github.com/ConnectAI-E/BaseScript-TextToMultiSelect) - Batch converting the content of multiple lines of text fields into the values of a multiple-choice field. ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-TextToMultiSelect)
 - [FieldCopy](https://github.com/ConnectAI-E/BaseScript-FieldCopy) - Batch copy the fields in a data table to other data tables or the current data table, allowing you to manually reference the data of other tables when you enable advanced permissions ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FieldCopy)
 - [UploadFiles](https://github.com/ConnectAI-E/BaseScript-UploadFiles) - Batch upload of attachments, support for uploading and creating new records, or matching field upload, improve the efficiency of uploading files ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-UploadFiles)
+- [CalendarConversion](https://github.com/ConnectAI-E/BaseScript-CalendarConversion) - Support Gregorian calendar date and lunar calendar date conversion ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CalendarConversion)
+
 
 
 
