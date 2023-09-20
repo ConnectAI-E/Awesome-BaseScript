@@ -93,6 +93,7 @@ _看看别人怎么玩_
 - [TextToMultiSelect](https://github.com/ConnectAI-E/BaseScript-TextToMultiSelect) - 批量将多行文本字段内容，转化为多选字段的值 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-TextToMultiSelect)
 - [FieldCopy](https://github.com/ConnectAI-E/BaseScript-FieldCopy) - 批量将一个数据表中的字段复制到其他数据表或当前数据表，让你在开启高级权限时，也能手动引用其他表的数据 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FieldCopy)
 - [UploadFiles](https://github.com/ConnectAI-E/BaseScript-UploadFiles) - 批量上传附件，支持上传并新建记录，或匹配字段上传，提升上传文件的效率 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-UploadFiles)
+- [CalendarConversion](https://github.com/ConnectAI-E/BaseScript-CalendarConversion) - 支持公历日期与农历日期互相转换 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CalendarConversion)
 
 
   
