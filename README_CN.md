@@ -18,7 +18,16 @@
 #
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## 🎁 Join Now ！
+<img width="774" alt="image" src="https://github.com/ConnectAI-E/Awesome-BaseScript/assets/50035229/6ceec820-99d0-4d40-965c-a5b026aa9c7b">
 
+飞书插件开发者激励计划正式启动
+
+时间：2023年09月1日至2024年3月1日
+
+成功上架的插件可获得 2000 元人民币现金奖励或2000元人民币面额京东卡奖励。
+
+[了解更多信息](https://bytedance.feishu.cn/wiki/O7uQw0pp6ilBxRkeeBDcv2bBnEf)
 
 ## Contents
 
