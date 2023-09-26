@@ -11,7 +11,16 @@
 </samp>
 </strong>
 
+## 🎁 Join Now ！
+<img width="774" alt="image" src="https://github.com/ConnectAI-E/Awesome-BaseScript/assets/50035229/6ceec820-99d0-4d40-965c-a5b026aa9c7b">
 
+The official launch of the Developer Incentive Program for Feishu plugins is now underway.
+
+Duration: September 1, 2023, to March 1, 2024.
+
+Successfully published plugins are eligible for a cash reward of ¥2,000 RMB or a ¥2,000 RMB JD.com gift card.
+
+[Learn more](https://bytedance.feishu.cn/wiki/O7uQw0pp6ilBxRkeeBDcv2bBnEf)
 
 ## Contents
 
@@ -135,5 +144,7 @@ _See how others play_
 
 🍻 **[Submit Your Shared Project](https://bytedance.feishu.cn/share/base/form/shrcnwEhiP3yXlHko8LXFGBw1Ic) and let more
 people use your Base extensions**
+
+
 
 
