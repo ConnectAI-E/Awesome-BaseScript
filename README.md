@@ -134,7 +134,7 @@ _See how others play_
 - [FieldCopy](https://github.com/ConnectAI-E/BaseScript-FieldCopy) - Batch copy the fields in a data table to other data tables or the current data table, allowing you to manually reference the data of other tables when you enable advanced permissions ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-FieldCopy)
 - [UploadFiles](https://github.com/ConnectAI-E/BaseScript-UploadFiles) - Batch upload of attachments, support for uploading and creating new records, or matching field upload, improve the efficiency of uploading files ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-UploadFiles)
 - [CalendarConversion](https://github.com/ConnectAI-E/BaseScript-CalendarConversion) - Support Gregorian calendar date and lunar calendar date conversion ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-CalendarConversion)
-
+- [MergeTables](https://github.com/ConnectAI-E/BaseScript-MergeTables) - Support merging multiple data tables into one data table, easy to merge large amounts of data ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/BaseScript-MergeTables)
 
 
 
